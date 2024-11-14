@@ -1,1 +1,1 @@
-# Propotional Integral controller to switching average speed of active fluid sample on demand
+# Propotional Integral controller to switch average speed of active fluid sample on demand
