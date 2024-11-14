@@ -11,4 +11,4 @@ PDE solver and dependencies installation: [cuPSS](https://github.com/fcaballerop
 
 - `pid_solver_1.cpp`: This file initiates integration and control processes from arbitrary initial conditions, allowing for more varied starting points in simulations. Two example initial conditions are provided in the `init` folder.
   
-- `wrapper.sh`: submits a parameter sweep of jobs using `run_sim.sh` based on parameters specifed.  
+- `wrapper.sh`: make it into a executable to submit a parameter sweep of jobs using `run_sim.sh`.  
