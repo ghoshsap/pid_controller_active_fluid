@@ -3,7 +3,7 @@
 PDE solver and dependencies installation: [cuPSS](https://github.com/fcaballerop/cuPSS). <br>
 
 ## PID controller setup
-<img src="https://github.com/ghoshsap/pid_controller_active_fluid/blob/main/init/method.png" alt="Diagram" width="800" />
+<img src="https://github.com/ghoshsap/pid_controller_active_fluid/blob/main/init/method.png" alt="Diagram" width="400" />
 
 ## Description 
 
